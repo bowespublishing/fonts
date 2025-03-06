@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Oh Okey';
+    src: url('OhOkey.woff2') format('woff2'),
+        url('OhOkey.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
